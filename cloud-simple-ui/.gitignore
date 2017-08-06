@@ -1,0 +1,5 @@
+/cloud-simple-ui/
+# Eclipse #
+.settings/
+.classpath
+.project
