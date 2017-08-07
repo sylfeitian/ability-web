@@ -6,5 +6,5 @@ package cloud.simple.model;
  *
  */
 public class Teacher {
-	
+	private String nameString;
 }
